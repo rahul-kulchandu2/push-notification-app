@@ -2,7 +2,7 @@
   "name": "kulchandu/push-notification-app",
   "description": "This is a notification service using firebase for applications of IOS/Android",
   "type": "library",
-  "license": "KULCHANDU",
+  "license": "MIT",
   "authors": [
     {
       "name": "Rahul Kulchandu",
