@@ -1,12 +1,12 @@
 
 # Push notification for APP
 
-<p align="center">
+
 [![Latest Version](https://img.shields.io/github/v/tag/rahul-kulchandu2/push-notification-app
 )](https://github.com/rahul-kulchandu2/push-notification-app/tags)
 [![Latest Version](https://img.shields.io/packagist/dt/kulchandu/push-notification-app
 )](https://packagist.org/packages/kulchandu/push-notification-app)
-</p>
+
 
 ## Introduction
 
