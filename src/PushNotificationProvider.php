@@ -12,8 +12,6 @@ class PushNotificationProvider extends ServiceProvider
         $this->mergeConfigFrom(__DIR__ . '/config/fcm.php', 'PushNotificationApp');
         $this->publishes([
             __DIR__ . '/config/fcm.php' => config_path('fcm.php'),
-        ]);
-        $this->publishes([
             __DIR__ . '/Services/FCMService.php' => app_path('Services/FCMService.php'),
         ]);
     }
