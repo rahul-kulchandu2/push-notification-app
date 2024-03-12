@@ -1,5 +1,5 @@
 
-<p align="center"><img src="/art/logo.svg" alt="Push notification for APP"></p>
+# Push notification for APP
 
 <p align="center">
 <a href="https://github.com/laravel/tinker/actions"><img src="https://github.com/laravel/tinker/workflows/tests/badge.svg" alt="Build Status"></a>
