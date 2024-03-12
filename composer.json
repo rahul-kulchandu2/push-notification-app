@@ -1,0 +1,19 @@
+{
+    "name": "kulchandu/push-notification-app",
+    "description": "This is a notification service using firebase for applications of IOS/Android",
+    "type": "library",
+    "license": "KULCHANDU",
+    "authors": [
+        {
+            "name": "Rahul Kulchandu",
+            "email": "rahulkulchandu3@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Kulchandu\\PushNotificationApp\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
