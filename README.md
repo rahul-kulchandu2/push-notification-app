@@ -1,7 +1,8 @@
 
 # Push notification for APP
 
-[![Latest Version](https://img.shields.io/github/release/guzzle/guzzle.svg?style=flat-square)](https://github.com/rahul-kulchandu2/push-notification-app/tags)
+[![Latest Version](https://img.shields.io/github/v/tag/rahul-kulchandu2/push-notification-app
+)](https://github.com/rahul-kulchandu2/push-notification-app/tags)
 
 
 <p align="center">
