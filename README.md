@@ -20,8 +20,18 @@ run composer require kulchandu/push-notification-app
 
 php artisan vendor:publish
 
-Thank you for considering contributing to Push notification for APP!
+## Usage
+ FCMService::send(
+            'token',
+            [
+            'title' => 'Title',
+            'body'  => 'Body',
+            ],
+            ['page' => 'page']
+        );
 
 ## License
 
 Laravel Push notification for APP is open-sourced software licensed under the [MIT license](LICENSE.md).
+
+Thank you for considering contributing to Push notification for APP!
