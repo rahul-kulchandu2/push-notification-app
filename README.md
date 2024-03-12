@@ -4,7 +4,7 @@
 [![Latest Version](https://img.shields.io/github/v/tag/rahul-kulchandu2/push-notification-app
 )](https://github.com/rahul-kulchandu2/push-notification-app/tags)
 [![Latest Version](https://img.shields.io/packagist/dt/rahul-kulchandu2/push-notification-app
-)](https://packagist.org/packages/rahul-kulchandu2/push-notification-app)
+)](https://packagist.org/packages/kulchanduhttp/push-notification-app)
 
 <p align="center">
 <a href="https://github.com/laravel/rahul-kulchandu2/push-notification-app"><img src="https://github.com/laravel/tinker/workflows/tests/badge.svg" alt="Build Status"></a>
