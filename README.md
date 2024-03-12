@@ -1,6 +1,9 @@
 
 # Push notification for APP
 
+[![Latest Version](https://img.shields.io/github/release/guzzle/guzzle.svg?style=flat-square)](https://github.com/rahul-kulchandu2/push-notification-app/releases)
+
+
 <p align="center">
 <a href="https://github.com/laravel/rahul-kulchandu2/push-notification-app"><img src="https://github.com/laravel/tinker/workflows/tests/badge.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/rahul-kulchandu2/push-notification-app"><img src="https://img.shields.io/packagist/dt/laravel/tinker" alt="Total Downloads"></a>
