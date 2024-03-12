@@ -2,10 +2,10 @@
 # Push notification for APP
 
 <p align="center">
-<a href="https://github.com/laravel/tinker/actions"><img src="https://github.com/laravel/tinker/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/tinker"><img src="https://img.shields.io/packagist/dt/laravel/tinker" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/tinker"><img src="https://img.shields.io/packagist/v/laravel/tinker" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/tinker"><img src="https://img.shields.io/packagist/l/laravel/tinker" alt="License"></a>
+<a href="https://github.com/laravel/rahul-kulchandu2/push-notification-app"><img src="https://github.com/laravel/tinker/workflows/tests/badge.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/rahul-kulchandu2/push-notification-app"><img src="https://img.shields.io/packagist/dt/laravel/tinker" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/rahul-kulchandu2/push-notification-app"><img src="https://img.shields.io/packagist/v/laravel/tinker" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/rahul-kulchandu2/push-notification-app"><img src="https://img.shields.io/packagist/l/laravel/tinker" alt="License"></a>
 </p>
 
 ## Introduction
