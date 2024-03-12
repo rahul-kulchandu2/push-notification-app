@@ -1,3 +1,3 @@
-#Push notification for APP
+# Push notification for APP
 
-##This is a notification service using firebase for applications of IOS/Android"
+## This is a notification service using firebase for applications of IOS/Android"
